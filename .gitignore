@@ -1,0 +1,15 @@
+# secrets
+.env
+
+# python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# local tooling / editor state
+.agents/
+.claude/
+anaconda_projects/
